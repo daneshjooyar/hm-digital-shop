@@ -1,0 +1,13 @@
+#hmds_insert_file{
+    border: 1px solid #A0A0A0;
+    padding: 20px;
+    background: white;
+    border-radius: 3px;
+    display: none;
+}
+
+#hmds_status{
+    color: green;
+    visibility: hidden;
+}
+

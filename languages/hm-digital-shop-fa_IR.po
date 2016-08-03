@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: File Link Shop\n"
+"POT-Creation-Date: 2016-01-13 14:51+0330\n"
+"PO-Revision-Date: 2016-01-13 14:52+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hm-digital-shop.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin_proccess.php:7 admin/admin_proccess.php:8
+msgid "Sell Download Link"
+msgstr "فروش لینک دانلود"
+
+#: admin/admin_proccess.php:16 admin/admin_proccess.php:17
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/admin_proccess.php:25 admin/admin_proccess.php:26
+#: admin/view/digital_product_transactions_page.php:16
+msgid "Transactions"
+msgstr "تراکنش ها"
+
+#: admin/admin_proccess.php:45
+msgid "Are you sure?"
+msgstr "آیا شما مطمئن هستین؟"
+
+#: admin/admin_proccess.php:46
+msgid "An error happen"
+msgstr "خطایی رخ داده"
+
+#: admin/admin_proccess.php:54
+msgid "Parspal settings"
+msgstr "تنظیمات پارس پال"
+
+#: admin/admin_proccess.php:56
+msgid "Merchant ID"
+msgstr "شناسه درگاه"
+
+#: admin/admin_proccess.php:57
+msgid "Password"
+msgstr "گذرواژه"
+
+#: admin/ajax_requests.php:13 admin/ajax_requests.php:94
+msgid "You do not have permission to access..."
+msgstr "شما اجازه دسترسی به این قسمت را ندارید."
+
+#: admin/ajax_requests.php:18 admin/ajax_requests.php:99
+msgid "Nonce is not correct!"
+msgstr "خطا"
+
+#: admin/ajax_requests.php:23
+msgid "Please complete information"
+msgstr "لطفا اطلاعات را تکمیل نمایید"
+
+#: admin/ajax_requests.php:46
+msgid "Data added successfully"
+msgstr "اطلاعات با موفقیت ثبت شد"
+
+#: admin/ajax_requests.php:49
+msgid "Error in saving data"
+msgstr "خطا در ذخیره سازی اطلاعات"
+
+#: admin/ajax_requests.php:68
+msgid "Data updated successfully"
+msgstr "اطلاعات با موفقیت بروز شد"
+
+#: admin/ajax_requests.php:71
+msgid "Error in updating"
+msgstr "خطا در بروزرسانی"
+
+#: admin/ajax_requests.php:111
+msgid "File save successfully"
+msgstr "فایل با موفقیت ذخیره شد."
+
+#: admin/ajax_requests.php:114
+msgid "Error in deleteing data"
+msgstr "خطا در حذف فایل"
+
+#: admin/view/digital_product_page.php:2
+msgid "Download Links"
+msgstr "لینک دانلود"
+
+#: admin/view/digital_product_page.php:7
+msgid "File Name"
+msgstr "نام فایل"
+
+#: admin/view/digital_product_page.php:11
+#: admin/view/digital_product_transactions_page.php:22
+#: admin/view/digital_product_transactions_page.php:35 inc/shortcode.php:120
+msgid "Price"
+msgstr "قیمت"
+
+#: admin/view/digital_product_page.php:15
+msgid "File Link"
+msgstr "لینک فایل"
+
+#: admin/view/digital_product_page.php:17
+msgid "Select File"
+msgstr "انتخاب فایل"
+
+#: admin/view/digital_product_page.php:20 inc/shortcode.php:68
+msgid "Please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: admin/view/digital_product_page.php:21
+msgid "Save"
+msgstr "ذخیره"
+
+#: admin/view/digital_product_page.php:24
+msgid "Add link"
+msgstr "افزودن لینک"
+
+#: admin/view/digital_product_page.php:29
+#: admin/view/digital_product_page.php:41
+msgid "Link ID"
+msgstr "شناسه لینک"
+
+#: admin/view/digital_product_page.php:30
+#: admin/view/digital_product_page.php:42
+msgid "Link Name"
+msgstr "نام لینک"
+
+#: admin/view/digital_product_page.php:31
+#: admin/view/digital_product_page.php:43
+msgid "Link Price"
+msgstr "قیمت لینک"
+
+#: admin/view/digital_product_page.php:32
+#: admin/view/digital_product_page.php:44
+msgid "Download address"
+msgstr "آدرس دانلود"
+
+#: admin/view/digital_product_page.php:33
+#: admin/view/digital_product_page.php:45 inc/email_template.php:13
+msgid "Download Link"
+msgstr "لینک دانلود"
+
+#: admin/view/digital_product_page.php:34
+#: admin/view/digital_product_page.php:46
+msgid "Created Time"
+msgstr "زمان ایجاد"
+
+#: admin/view/digital_product_page.php:35
+#: admin/view/digital_product_page.php:47
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+#: admin/view/digital_product_page.php:36
+#: admin/view/digital_product_page.php:48
+msgid "Operation"
+msgstr "عملیات"
+
+#: admin/view/digital_product_transactions_page.php:20
+#: admin/view/digital_product_transactions_page.php:33
+msgid "Row"
+msgstr "ردیف"
+
+#: admin/view/digital_product_transactions_page.php:21
+#: admin/view/digital_product_transactions_page.php:34
+msgid "Paymenter"
+msgstr "پرداخت کننده"
+
+#: admin/view/digital_product_transactions_page.php:23
+#: admin/view/digital_product_transactions_page.php:36
+msgid "Payment title"
+msgstr "عنوان پرداخت"
+
+#: admin/view/digital_product_transactions_page.php:24
+#: admin/view/digital_product_transactions_page.php:37
+#: inc/email_template.php:11
+msgid "Reserve Number"
+msgstr "شماره رزرو"
+
+#: admin/view/digital_product_transactions_page.php:25
+#: admin/view/digital_product_transactions_page.php:38
+#: inc/email_template.php:12
+msgid "Recieve Number"
+msgstr "شماره رسید"
+
+#: admin/view/digital_product_transactions_page.php:26
+#: admin/view/digital_product_transactions_page.php:39 inc/shortcode.php:133
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: admin/view/digital_product_transactions_page.php:27
+#: admin/view/digital_product_transactions_page.php:40 inc/shortcode.php:124
+msgid "Email"
+msgstr "ایمیل"
+
+#: admin/view/digital_product_transactions_page.php:28
+#: admin/view/digital_product_transactions_page.php:41
+msgid "Date"
+msgstr "تاریخ"
+
+#: admin/view/digital_product_transactions_page.php:46
+msgid "Not transaction found..."
+msgstr "تراکنشی یافت نشد"
+
+#: admin/view/digital_product_transactions_page.php:68
+msgid "&laquo;"
+msgstr ""
+
+#: admin/view/digital_product_transactions_page.php:69
+msgid "&raquo;"
+msgstr ""
+
+#: inc/email_template.php:7 inc/functions.php:84
+msgid "Payment information"
+msgstr "اطلاعات پرداخت"
+
+#: inc/email_template.php:9
+msgid ""
+"Your payment operation successfully finished, please save payment information"
+msgstr "پرداخت شما با موفقیت انجام شد، لطفا اطلاعات را نزد خود نگه دارید"
+
+#: inc/email_template.php:10
+msgid "Download Link Name"
+msgstr "نام لینک دانلود"
+
+#: inc/functions.php:18 inc/shortcode.php:104
+msgid "Download"
+msgstr "دانلود"
+
+#: inc/functions.php:22
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/functions.php:23
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/functions.php:29
+msgid "No Download link found..."
+msgstr "لینک دانلودی یافت نشد."
+
+#: inc/shortcode.php:14
+msgid "You must login, please "
+msgstr "شما باید وارد سایت شوید"
+
+#: inc/shortcode.php:15
+msgid "SignIn"
+msgstr "وارد شوید"
+
+#: inc/shortcode.php:16
+msgid "Or"
+msgstr "یا"
+
+#: inc/shortcode.php:16
+msgid "SignUp"
+msgstr "ثبت نام کنید"
+
+#: inc/shortcode.php:28
+msgid "File not found"
+msgstr "فایل یافت نشد"
+
+#: inc/shortcode.php:68
+msgid "Connecting..."
+msgstr "در حال اتصال..."
+
+#: inc/shortcode.php:70 inc/shortcode.php:98 inc/shortcode.php:107
+msgid "You can not buy this link, Please contact with Admin"
+msgstr "امکان خرید این لینک وجود ندارد، لطفا با مدیریت تماس بگیرید"
+
+#: inc/shortcode.php:112
+msgid "For download you must buy download link"
+msgstr "برای دانلود محصول باید لینک دانلود آن را خریداری کنید."
+
+#: inc/shortcode.php:113 inc/shortcode.php:137
+msgid "Buy"
+msgstr "خرید"
+
+#: inc/shortcode.php:116
+msgid "Link Title"
+msgstr "نام لینک"
+
+#: inc/shortcode.php:129
+msgid "Paymenter Name"
+msgstr "نام پرداخت کننده"
+
+#. Plugin Name of the plugin/theme
+msgid "HM File Link Shop"
+msgstr "فروش لینک دانلود"
+
+#. Plugin URI of the plugin/theme
+msgid "http://example.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is way to sell download link with parspal"
+msgstr "این افزونه یک راه ساده است برای فروش لینک دانلود از طریق پارس پال"
+
+#. Author of the plugin/theme
+msgid "Hamed Moodi"
+msgstr "حامد مودی"
+
+#. Author URI of the plugin/theme
+msgid "http://ircodex.ir/author/4dmin/"
+msgstr ""
+
+#~ msgid "File Link Shop"
+#~ msgstr "فروش لینک دانلود"
